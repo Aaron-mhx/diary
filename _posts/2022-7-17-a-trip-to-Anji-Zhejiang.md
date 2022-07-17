@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "前往安吉的三日——2022年暑假"
 date: 2022-07-17   
 category: me
 excerpt: ""
