@@ -1,6 +1,6 @@
 ---
-layout:post
-title:""
+layout: post
+title: ""
 date: 2022-07-17   
 category: me
 excerpt: ""
