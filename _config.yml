@@ -1,22 +1,21 @@
-name: YourName
+name: miaohongxuan
 permalink: :year/:month/:day/:title
-baseurl: /jekyll-theme-diary
+baseurl: /diary
 
 # Your blog's start year and this year, showed in the footer left
 # start is optional
-start: 2017
-now: 2019
+start: 2022
+now: 2022
  
 # Social links showed in the footer
 # You just need modify the nickname of github and twitter
 link:
-  email : yourname@gmail.com
-  github : yourname
-  twitter : yourname
+  email : miaohongxuan@outlook.com
+  github : Aaron-mhx
 
 # Links in the navigation, you can modify both link name and link url
 nav:
-   Home: "/"
+   Home: "/diary"
    Diary: "/diary"
 
    
